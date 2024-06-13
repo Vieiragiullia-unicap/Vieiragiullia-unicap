@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vieiragiullia-unicap
+- 👋 Hi, I’m Vieira giullia
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning about JAVA, SQL, JS + React e HTML/CSS
 - 💞️ I’m looking to collaborate on some projects that i can use habilits and learning more stuff
