@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning about JAVA, SQL, JS + React e HTML/CSS
 - 💞️ I’m looking to collaborate on some projects that i can use habilits and learning more stuff
-- 📫 How to reach me: giullia.00000850245@unicap.br
+- 📫 How to reach me: vieiragiullia19@gmail.com
 - ⚡ Fun fact: i'm Riot player (yes yes, LOL and Valorant) and i love read interesting books
 
 <!---
